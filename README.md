@@ -1,5 +1,8 @@
 # latihan-pseudocode
 
+Nama: Shafa Firazty Rahadatul'Aisy
+NIM: 1304221035
+
 This project is consists 10 different files based on teh following task:
 1. Buatlah program untuk menghitung luas lingkaran. Masukan: radius. Keluaran: luas.
 2. Buatlah program untuk menghitung keliling lingkaran. Masukan: radius. Keluaran: keliling.
