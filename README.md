@@ -1,6 +1,6 @@
 # latihan-pseudocode
 
-Nama: Shafa Firazty Rahadatul'Aisy
+Nama: Shafa Firazty Rahadatul'Aisy 
 NIM: 1304221035
 
 This project is consists 10 different files based on teh following task:
