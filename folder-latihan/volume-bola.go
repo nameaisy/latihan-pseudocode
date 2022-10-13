@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
     
-    var spRadius, spSA, spVolume
+    var spRadius, spVolume float64
 
     fmt.Print("Masukan radius lingkaran: ")
     fmt.Scanln(&spRadius)
